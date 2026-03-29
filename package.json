@@ -1,0 +1,22 @@
+{
+  "name": "dinraat-bot",
+  "version": "1.0.0",
+  "description": "Din Raat Bites — WhatsApp ordering chatbot for Manipal/Udupi's 24/7 Halal cloud kitchen",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/webhook.js"
+  },
+  "dependencies": {
+    "@vercel/kv": "^2.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "googleapis": "^144.0.0",
+    "razorpay": "^2.9.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "PRIVATE",
+  "author": "Din Raat Bites"
+}
