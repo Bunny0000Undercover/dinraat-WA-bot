@@ -1,0 +1,154 @@
+category,category_display,item_id,item_name,list_display,variant,price,in_stock,sort_order
+fries,🍟 French Fries,plain-fries,Plain Fries,Plain Fries,,85,TRUE,1
+fries,🍟 French Fries,peri-peri-fries,Peri Peri Fries,Peri Peri Fries,,99,TRUE,2
+fries,🍟 French Fries,lemon-chilli-fries,Lemon Chilli Fries,Lemon Chilli Fries,,110,TRUE,3
+fries,🍟 French Fries,cheesy-fries,Cheesy Fries,Cheesy Fries,,145,TRUE,4
+fries,🍟 French Fries,peri-peri-cheesy-fries,Peri Peri Cheesy Fries,Peri Peri Cheesy Fries,,155,TRUE,5
+fries,🍟 French Fries,melted-mozzarella-fries,Melted Mozzarella Fries,Melted Mozzarella Fries,,165,TRUE,6
+fries,🍟 French Fries,fully-loaded-veg,Fully Loaded Veg,Fully Loaded Veg,,165,TRUE,7
+fries,🍟 French Fries,veg-dragon-fries,Veg Dragon Fries,Veg Dragon Fries,,165,TRUE,8
+fries,🍟 French Fries,paneer-shots-fries,Paneer Shots Fries,Paneer Shots Fries,,165,TRUE,9
+fries,🍟 French Fries,loaded-fries-chicken,Fully Loaded Fries Chicken,Loaded Fries Chicken,,189,TRUE,10
+wings,🍗 Wings Things,peri-peri-wings,Peri Peri Wings,Peri Peri Wings,,190,TRUE,1
+wings,🍗 Wings Things,sweet-chilly-wings,Sweet Chilly Wings,Sweet Chilly Wings,,190,TRUE,2
+wings,🍗 Wings Things,bbq-wings,BBQ Wings,BBQ Wings,,190,TRUE,3
+wings,🍗 Wings Things,smoky-sriracha-wings,Smoky Sriracha Wings,Smoky Sriracha Wings,,190,TRUE,4
+wings,🍗 Wings Things,lemon-chilli-wings,Lemon Chilli Wings,Lemon Chilli Wings,,195,TRUE,5
+wings,🍗 Wings Things,buffalo-wings,Buffalo Wings,Buffalo Wings,,210,TRUE,6
+wings,🍗 Wings Things,spicy-garlic-wings,Spicy Garlic Wings,Spicy Garlic Wings,,220,TRUE,7
+wings,🍗 Wings Things,butter-garlic-wings,Butter Garlic Wings,Butter Garlic Wings,,220,TRUE,8
+strips,🍗 Chicken Strips,chicken-strips-4pcs,Chicken Strips 4pcs,Chicken Strips 4pcs,,149,TRUE,1
+strips,🍗 Chicken Strips,lemon-chilli-strip,Lemon Chilli Strip,Lemon Chilli Strip,,155,TRUE,2
+strips,🍗 Chicken Strips,strip-with-dip,Strip With Dip,Strip With Dip,Peri Peri,160,TRUE,3
+strips,🍗 Chicken Strips,strip-with-dip,Strip With Dip,Strip With Dip,Chipotle Mayo,160,TRUE,4
+popcorn,🍿 Chicken Popcorn,normal-popcorn,Normal Popcorn,Normal Popcorn,,125,TRUE,1
+popcorn,🍿 Chicken Popcorn,sweet-chilly-popcorn,Sweet Chilly Popcorn,Sweet Chilly Popcorn,,135,TRUE,2
+popcorn,🍿 Chicken Popcorn,bbq-popcorn,BBQ Popcorn,BBQ Popcorn,,135,TRUE,3
+popcorn,🍿 Chicken Popcorn,periperi-popcorn,Periperi Popcorn,Periperi Popcorn,,135,TRUE,4
+popcorn,🍿 Chicken Popcorn,lemon-chilli-popcorn,Lemon Chilli Popcorn,Lemon Chilli Popcorn,,140,TRUE,5
+fried_chicken,🍗 Fried Chicken,fried-chicken-1pc,Fried Chicken 1pc,Fried Chicken 1pc,,85,TRUE,1
+fried_chicken,🍗 Fried Chicken,lemon-chilli-fried-chicken,Lemon Chilli Fried Chicken,Lemon Chilli Chicken,,120,TRUE,2
+fried_chicken,🍗 Fried Chicken,fried-chicken-4pcs,Fried Chicken 4pcs,Fried Chicken 4pcs,,330,TRUE,3
+fried_chicken,🍗 Fried Chicken,fried-chicken-8pcs,Fried Chicken 8pcs,Fried Chicken 8pcs,,660,TRUE,4
+wraps,🌯 Wraps,fried-chicken-wrap,Fried Chicken Wrap,Fried Chicken Wrap,,125,TRUE,1
+wraps,🌯 Wraps,honey-chilly-wrap,Honey Chilly Wrap,Honey Chilly Wrap,,129,TRUE,2
+wraps,🌯 Wraps,bbq-wrap,BBQ Wrap,BBQ Wrap,,129,TRUE,3
+wraps,🌯 Wraps,chicken-cheesy-jalapeno,Chicken Cheesy Jalapeño,Cheesy Jalapeño Wrap,,135,TRUE,4
+wraps,🌯 Wraps,tandoori-wrap,Tandoori Wrap,Tandoori Wrap,,135,TRUE,5
+paneer_shots,🧀 Creamy Paneer Shots,creamy-paneer-shots,Creamy Paneer Shots,Creamy Paneer Shots,,175,TRUE,1
+burgers_veg,🍔 Veg Burgers,veg-patty-burger,Veg Patty Burger,Veg Patty Burger,,115,TRUE,1
+burgers_veg,🍔 Veg Burgers,flaming-veg-burger,Flaming Veg Burger,Flaming Veg Burger,,125,TRUE,2
+burgers_veg,🍔 Veg Burgers,flaming-veg-cheese-burger,Flaming Veg Cheese Burger,Flaming Veg Cheese,,135,TRUE,3
+burgers_veg,🍔 Veg Burgers,paneer-burger,Paneer Burger,Paneer Burger,,145,TRUE,4
+burgers_veg,🍔 Veg Burgers,paneer-flaming-burger,Paneer Flaming Burger,Paneer Flaming Burger,,165,TRUE,5
+burgers_nonveg,🍔 Non-Veg (No Cheese),fried-chicken-burger,Fried Chicken Burger,Fried Chicken Burger,,149,TRUE,1
+burgers_nonveg,🍔 Non-Veg (No Cheese),flaming-burger,Flaming Burger,Flaming Burger,,175,TRUE,2
+burgers_nonveg,🍔 Non-Veg (No Cheese),smoky-burger,Smoky Flavored Burger,Smoky Burger,,175,TRUE,3
+burgers_nonveg,🍔 Non-Veg (No Cheese),chicken-tikka-burger,Chicken Tikka Burger,Chicken Tikka Burger,,175,TRUE,4
+burgers_cheese,🍔 Non-Veg with Cheese,fc-cheese-burger,Fried Chicken Cheese Burger,FC Cheese Burger,,165,TRUE,1
+burgers_cheese,🍔 Non-Veg with Cheese,flaming-cheese-burger,Flaming Cheese Burger,Flaming Cheese Burger,,185,TRUE,2
+burgers_cheese,🍔 Non-Veg with Cheese,smoky-cheese-burger,Smoky Flavoured Cheese Burger,Smoky Cheese Burger,,185,TRUE,3
+burgers_cheese,🍔 Non-Veg with Cheese,melted-tikka-burger,Melted Chicken Tikka Burger,Melted Tikka Burger,,185,TRUE,4
+burgers_cheese,🍔 Non-Veg with Cheese,cheese-burst-burger,Chicken Cheese Burst Burger,Cheese Burst Burger,,185,TRUE,5
+burgers_cheese,🍔 Non-Veg with Cheese,cheesy-bun-burger,Cheesy Bun Chicken Burger,Cheesy Bun Burger,,190,TRUE,6
+burgers_cheese,🍔 Non-Veg with Cheese,american-style-burger,American Style Burger,American Style Burger,,210,TRUE,7
+burgers_steak,🍔 Steak Burgers,chicken-steak-burger,Chicken Steak Burger,Chicken Steak Burger,,200,TRUE,1
+burgers_steak,🍔 Steak Burgers,mutton-steak-burger,Mutton Steak Burger,Mutton Steak Burger,,340,TRUE,2
+burgers_double,🍔 Double Patty,double-patty-burger,Double Patty Cheese Burger,Double Patty Burger,,240,TRUE,1
+burgers_double,🍔 Double Patty,hatrick-chicken,Hatrick Chicken Cheese,Hatrick Chicken,,300,TRUE,2
+burgers_signature,🍔 Signature,cluck-me-harder,Cluck Me Harder,Cluck Me Harder,,270,TRUE,1
+chinese_soup,🍲 Soups,manchow-soup,Manchow Soup,Manchow Soup,Veg,90,TRUE,1
+chinese_soup,🍲 Soups,manchow-soup,Manchow Soup,Manchow Soup,Chicken,110,TRUE,2
+chinese_soup,🍲 Soups,hot-sour-soup,Hot & Sour Soup,Hot & Sour Soup,Veg,95,TRUE,3
+chinese_soup,🍲 Soups,hot-sour-soup,Hot & Sour Soup,Hot & Sour Soup,Chicken,115,TRUE,4
+chinese_soup,🍲 Soups,cream-of-mushroom,Cream of Mushroom,Cream of Mushroom,Veg,100,TRUE,5
+chinese_soup,🍲 Soups,cream-of-mushroom,Cream of Mushroom,Cream of Mushroom,Chicken,120,TRUE,6
+chinese_veg,🥗 Veg Starters,gobi-manchurian,Gobi Manchurian,Gobi Manchurian,,109,TRUE,1
+chinese_veg,🥗 Veg Starters,baby-corn-chilly,Baby Corn Chilly,Baby Corn Chilly,,135,TRUE,2
+chinese_veg,🥗 Veg Starters,baby-corn-manchurian,Baby Corn Manchurian,Baby Corn Manchurian,,135,TRUE,3
+chinese_veg,🥗 Veg Starters,mushroom-chilly,Mushroom Chilly,Mushroom Chilly,,135,TRUE,4
+chinese_veg,🥗 Veg Starters,mushroom-manchurian,Mushroom Manchurian,Mushroom Manchurian,,140,TRUE,5
+chinese_veg,🥗 Veg Starters,paneer-chilly,Paneer Chilly,Paneer Chilly,,145,TRUE,6
+chinese_veg,🥗 Veg Starters,paneer-manchurian,Paneer Manchurian,Paneer Manchurian,,150,TRUE,7
+chinese_veg,🥗 Veg Starters,honey-chilly-fries,Honey Chilly Fries,Honey Chilly Fries,,155,TRUE,8
+chinese_veg,🥗 Veg Starters,kung-pao-paneer,Kung Pao Paneer,Kung Pao Paneer,,165,TRUE,9
+chinese_nonveg,🍗 Non-Veg Starters,chicken-chilly,Chicken Chilly,Chicken Chilly,Bone,180,TRUE,1
+chinese_nonveg,🍗 Non-Veg Starters,chicken-chilly,Chicken Chilly,Chicken Chilly,Boneless,220,TRUE,2
+chinese_nonveg,🍗 Non-Veg Starters,chicken-manchurian,Chicken Manchurian,Chicken Manchurian,Bone,180,TRUE,3
+chinese_nonveg,🍗 Non-Veg Starters,chicken-manchurian,Chicken Manchurian,Chicken Manchurian,Boneless,220,TRUE,4
+chinese_nonveg,🍗 Non-Veg Starters,ginger-chicken,Ginger Chicken,Ginger Chicken,Bone,180,TRUE,5
+chinese_nonveg,🍗 Non-Veg Starters,ginger-chicken,Ginger Chicken,Ginger Chicken,Boneless,220,TRUE,6
+chinese_nonveg,🍗 Non-Veg Starters,kung-pao-chicken,Kung Pao Chicken,Kung Pao Chicken,Bone,180,TRUE,7
+chinese_nonveg,🍗 Non-Veg Starters,kung-pao-chicken,Kung Pao Chicken,Kung Pao Chicken,Boneless,220,TRUE,8
+chinese_nonveg,🍗 Non-Veg Starters,chicken-65,Chicken 65,Chicken 65,Bone,190,TRUE,9
+chinese_nonveg,🍗 Non-Veg Starters,garlic-chicken,Garlic Chicken,Garlic Chicken,Bone,190,TRUE,10
+chinese_nonveg,🍗 Non-Veg Starters,garlic-chicken,Garlic Chicken,Garlic Chicken,Boneless,220,TRUE,11
+chinese_nonveg,🍗 Non-Veg Starters,pepper-chicken,Pepper Chicken,Pepper Chicken,Bone,190,TRUE,12
+chinese_nonveg,🍗 Non-Veg Starters,pepper-chicken,Pepper Chicken,Pepper Chicken,Boneless,220,TRUE,13
+chinese_nonveg,🍗 Non-Veg Starters,dragon-chicken,Dragon Chicken,Dragon Chicken,Boneless,199,TRUE,14
+chinese_nonveg,🍗 Non-Veg Starters,chicken-butter-garlic,Chicken Butter Garlic,Chicken Butter Garlic,Bone,200,TRUE,15
+chinese_nonveg,🍗 Non-Veg Starters,chicken-butter-garlic,Chicken Butter Garlic,Chicken Butter Garlic,Boneless,220,TRUE,16
+chinese_nonveg,🍗 Non-Veg Starters,chicken-satay,Chicken Satay,Chicken Satay,Boneless,230,TRUE,17
+chinese_nonveg,🍗 Non-Veg Starters,honey-chilly-chicken,Honey Chilly Chicken,Honey Chilly Chicken,Bone,199,TRUE,18
+chinese_nonveg,🍗 Non-Veg Starters,honey-chilly-chicken,Honey Chilly Chicken,Honey Chilly Chicken,Boneless,230,TRUE,19
+chinese_nonveg,🍗 Non-Veg Starters,schezwan-chicken,Schezwan Chicken,Schezwan Chicken,Bone,199,TRUE,20
+chinese_nonveg,🍗 Non-Veg Starters,schezwan-chicken,Schezwan Chicken,Schezwan Chicken,Boneless,230,TRUE,21
+chinese_rice,🍚 Fried Rice,fried-rice,Fried Rice,Fried Rice,Veg,120,TRUE,1
+chinese_rice,🍚 Fried Rice,fried-rice,Fried Rice,Fried Rice,Egg,125,TRUE,2
+chinese_rice,🍚 Fried Rice,fried-rice,Fried Rice,Fried Rice,Paneer,135,TRUE,3
+chinese_rice,🍚 Fried Rice,fried-rice,Fried Rice,Fried Rice,Chicken,145,TRUE,4
+chinese_rice,🍚 Fried Rice,fried-rice,Fried Rice,Fried Rice,Prawns,160,TRUE,5
+chinese_rice,🍚 Fried Rice,schezwan-fried-rice,Schezwan Fried Rice,Schezwan Fried Rice,Veg,125,TRUE,6
+chinese_rice,🍚 Fried Rice,schezwan-fried-rice,Schezwan Fried Rice,Schezwan Fried Rice,Egg,130,TRUE,7
+chinese_rice,🍚 Fried Rice,schezwan-fried-rice,Schezwan Fried Rice,Schezwan Fried Rice,Paneer,140,TRUE,8
+chinese_rice,🍚 Fried Rice,schezwan-fried-rice,Schezwan Fried Rice,Schezwan Fried Rice,Chicken,150,TRUE,9
+chinese_rice,🍚 Fried Rice,schezwan-fried-rice,Schezwan Fried Rice,Schezwan Fried Rice,Prawns,170,TRUE,10
+chinese_rice,🍚 Fried Rice,chilly-garlic-rice,Chilly Garlic Rice,Chilly Garlic Rice,Veg,135,TRUE,11
+chinese_rice,🍚 Fried Rice,chilly-garlic-rice,Chilly Garlic Rice,Chilly Garlic Rice,Paneer,145,TRUE,12
+chinese_rice,🍚 Fried Rice,chilly-garlic-rice,Chilly Garlic Rice,Chilly Garlic Rice,Chicken,160,TRUE,13
+chinese_rice,🍚 Fried Rice,lemon-coriander-rice,Lemon Coriander Rice,Lemon Coriander Rice,Veg,135,TRUE,14
+chinese_rice,🍚 Fried Rice,lemon-coriander-rice,Lemon Coriander Rice,Lemon Coriander Rice,Paneer,145,TRUE,15
+chinese_rice,🍚 Fried Rice,lemon-coriander-rice,Lemon Coriander Rice,Lemon Coriander Rice,Chicken,160,TRUE,16
+chinese_rice,🍚 Fried Rice,hongkong-garlic-rice,Hongkong Garlic Rice,Hongkong Garlic Rice,Veg,135,TRUE,17
+chinese_rice,🍚 Fried Rice,hongkong-garlic-rice,Hongkong Garlic Rice,Hongkong Garlic Rice,Paneer,145,TRUE,18
+chinese_rice,🍚 Fried Rice,hongkong-garlic-rice,Hongkong Garlic Rice,Hongkong Garlic Rice,Chicken,160,TRUE,19
+chinese_rice,🍚 Fried Rice,burnt-garlic-rice,Burnt Garlic Rice,Burnt Garlic Rice,Veg,140,TRUE,20
+chinese_rice,🍚 Fried Rice,burnt-garlic-rice,Burnt Garlic Rice,Burnt Garlic Rice,Paneer,155,TRUE,21
+chinese_rice,🍚 Fried Rice,burnt-garlic-rice,Burnt Garlic Rice,Burnt Garlic Rice,Chicken,170,TRUE,22
+chinese_rice,🍚 Fried Rice,singapore-rice,Singapore Rice,Singapore Rice,Veg,140,TRUE,23
+chinese_rice,🍚 Fried Rice,singapore-rice,Singapore Rice,Singapore Rice,Paneer,160,TRUE,24
+chinese_rice,🍚 Fried Rice,singapore-rice,Singapore Rice,Singapore Rice,Chicken,170,TRUE,25
+chinese_noodles,🍜 Noodles,noodles,Noodles,Noodles,Veg,120,TRUE,1
+chinese_noodles,🍜 Noodles,noodles,Noodles,Noodles,Egg,125,TRUE,2
+chinese_noodles,🍜 Noodles,noodles,Noodles,Noodles,Paneer,135,TRUE,3
+chinese_noodles,🍜 Noodles,noodles,Noodles,Noodles,Chicken,145,TRUE,4
+chinese_noodles,🍜 Noodles,noodles,Noodles,Noodles,Prawns,160,TRUE,5
+chinese_noodles,🍜 Noodles,schezwan-noodles,Schezwan Noodles,Schezwan Noodles,Veg,125,TRUE,6
+chinese_noodles,🍜 Noodles,schezwan-noodles,Schezwan Noodles,Schezwan Noodles,Egg,130,TRUE,7
+chinese_noodles,🍜 Noodles,schezwan-noodles,Schezwan Noodles,Schezwan Noodles,Paneer,140,TRUE,8
+chinese_noodles,🍜 Noodles,schezwan-noodles,Schezwan Noodles,Schezwan Noodles,Chicken,150,TRUE,9
+chinese_noodles,🍜 Noodles,schezwan-noodles,Schezwan Noodles,Schezwan Noodles,Prawns,170,TRUE,10
+chinese_noodles,🍜 Noodles,chilly-garlic-noodles,Chilly Garlic Noodles,Chilly Garlic Noodles,Veg,135,TRUE,11
+chinese_noodles,🍜 Noodles,chilly-garlic-noodles,Chilly Garlic Noodles,Chilly Garlic Noodles,Paneer,145,TRUE,12
+chinese_noodles,🍜 Noodles,chilly-garlic-noodles,Chilly Garlic Noodles,Chilly Garlic Noodles,Chicken,160,TRUE,13
+chinese_noodles,🍜 Noodles,lemon-coriander-noodles,Lemon Coriander Noodles,Lemon Coriander Noodle,Veg,135,TRUE,14
+chinese_noodles,🍜 Noodles,lemon-coriander-noodles,Lemon Coriander Noodles,Lemon Coriander Noodle,Paneer,145,TRUE,15
+chinese_noodles,🍜 Noodles,lemon-coriander-noodles,Lemon Coriander Noodles,Lemon Coriander Noodle,Chicken,160,TRUE,16
+chinese_noodles,🍜 Noodles,hongkong-noodles,Hongkong Noodles,Hongkong Noodles,Veg,135,TRUE,17
+chinese_noodles,🍜 Noodles,hongkong-noodles,Hongkong Noodles,Hongkong Noodles,Paneer,145,TRUE,18
+chinese_noodles,🍜 Noodles,hongkong-noodles,Hongkong Noodles,Hongkong Noodles,Chicken,160,TRUE,19
+chinese_noodles,🍜 Noodles,burnt-garlic-noodles,Burnt Garlic Noodles,Burnt Garlic Noodles,Veg,140,TRUE,20
+chinese_noodles,🍜 Noodles,burnt-garlic-noodles,Burnt Garlic Noodles,Burnt Garlic Noodles,Paneer,155,TRUE,21
+chinese_noodles,🍜 Noodles,burnt-garlic-noodles,Burnt Garlic Noodles,Burnt Garlic Noodles,Chicken,170,TRUE,22
+chinese_noodles,🍜 Noodles,singapore-noodles,Singapore Noodles,Singapore Noodles,Veg,140,TRUE,23
+chinese_noodles,🍜 Noodles,singapore-noodles,Singapore Noodles,Singapore Noodles,Paneer,160,TRUE,24
+chinese_noodles,🍜 Noodles,singapore-noodles,Singapore Noodles,Singapore Noodles,Chicken,170,TRUE,25
+thai,🍛 Thai Curry,thai-red-curry-rice,Thai Red Chicken Curry + Rice,Thai Red Curry + Rice,,230,TRUE,1
+thai,🍛 Thai Curry,thai-green-curry-rice,Thai Green Chicken Curry + Rice,Thai Green Curry + Rice,,230,TRUE,2
+indian_rice,🍚 Rice & Biryani,ghee-rice-kebab,Ghee Rice Kebab,Ghee Rice Kebab,,140,TRUE,1
+indian_rice,🍚 Rice & Biryani,chicken-dum-biryani,OG's Chicken Dum Biryani,Chicken Dum Biryani,,189,TRUE,2
+indian_rice,🍚 Rice & Biryani,chicken-kebab-biryani,Chicken Kebab Biryani,Chicken Kebab Biryani,,195,TRUE,3
+kebabs,🍢 Kebabs,chicken-kebab-6pcs,Chicken Kebab 6pcs,Chicken Kebab 6pcs,,160,TRUE,1
+mutton,🥩 Mutton Special,mutton-steak-burger-m,Mutton Steak Burger,Mutton Steak Burger,,340,TRUE,1
+mutton,🥩 Mutton Special,mutton-chops,Mutton Chops,Mutton Chops,,0,FALSE,2
+mutton,🥩 Mutton Special,mutton-soup,Mutton Soup,Mutton Soup,,0,FALSE,3
