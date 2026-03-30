@@ -11,6 +11,11 @@ module.exports = async function handler(req, res) {
   const method = req.method;
   const source = req.query?.source;
 
+  console.log(`[HTTP] ${method} request to /webhook`);
+  if (method === 'POST') {
+    console.log(`[DEBUG] Body: ${JSON.stringify(req.body, null, 2)}`);
+  }
+
   // ─── GET: Meta verification handshake ─────────────────────────
   if (method === 'GET') {
     // Testing endpoint (dev only)
